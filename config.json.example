@@ -1,0 +1,11 @@
+{
+  "host": "smtp.gmail.com",
+  "port": "465",
+  "secure": "true",
+
+  "authuser": "user@gmail.com",
+  "authusername": "usersname",
+  "authpass": "password",
+
+  "otheremail": "otheruser@gmail.com"
+}

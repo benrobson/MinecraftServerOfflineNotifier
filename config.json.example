@@ -3,9 +3,11 @@
   "port": "465",
   "secure": "true",
 
-  "authuser": "user@gmail.com",
-  "authusername": "usersname",
+  "authuser": "EMAIL",
+  "authusername": "NAME",
   "authpass": "password",
 
-  "otheremail": "otheruser@gmail.com"
+  "pinginginterval": "60000",
+  "minecraftaddress": "avicus.net",
+  "recipientemail": "EMAIL"
 }

@@ -18,6 +18,7 @@
   "homepage": "https://github.com/shadowolfyt/MinecraftServerOfflineNotifier#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "nodemailer": "^5.1.1"
+    "nodemailer": "^5.1.1",
+    "superagent": "^4.1.0"
   }
 }

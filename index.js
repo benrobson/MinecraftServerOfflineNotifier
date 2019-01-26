@@ -43,5 +43,6 @@ async function checkServerStatus() {
 
     console.log(chalk.red(`[STATUS OFFLINE] ${config.minecraftaddress} is offline and could not revieve a ping, sending offline email notice.`));
     console.log(chalk.green(`Offline email notice sent to ${config.recipientemail}`));
+    return process.exit(1);
   });
 }};
